@@ -1,7 +1,7 @@
 package com.muflikhan.backend.controllers;
 
-import com.muflikhan.backend.dtos.ApiResponse;
-import com.muflikhan.backend.dtos.CreateOrUpdateProductRequest;
+import com.muflikhan.backend.dtos.responses.ApiResponse;
+import com.muflikhan.backend.dtos.requests.products.CreateOrUpdateProductRequest;
 import com.muflikhan.backend.entities.Product;
 import com.muflikhan.backend.services.ProductService;
 import jakarta.validation.Valid;

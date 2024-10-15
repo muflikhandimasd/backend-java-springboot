@@ -1,4 +1,4 @@
-package com.muflikhan.backend.dtos;
+package com.muflikhan.backend.dtos.responses;
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;

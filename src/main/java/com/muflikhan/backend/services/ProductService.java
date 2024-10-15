@@ -1,6 +1,6 @@
 package com.muflikhan.backend.services;
 
-import com.muflikhan.backend.dtos.CreateOrUpdateProductRequest;
+import com.muflikhan.backend.dtos.requests.products.CreateOrUpdateProductRequest;
 import com.muflikhan.backend.entities.Product;
 import com.muflikhan.backend.repositories.ProductRepository;
 import jakarta.persistence.EntityNotFoundException;

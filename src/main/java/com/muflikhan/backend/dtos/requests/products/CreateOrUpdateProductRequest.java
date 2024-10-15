@@ -1,4 +1,4 @@
-package com.muflikhan.backend.dtos;
+package com.muflikhan.backend.dtos.requests.products;
 
 import jakarta.validation.constraints.DecimalMin;
 import jakarta.validation.constraints.NotBlank;
